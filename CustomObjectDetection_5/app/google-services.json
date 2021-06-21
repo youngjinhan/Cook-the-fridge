@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "425661750859",
+    "firebase_url": "https://cook-the-fridge-default-rtdb.firebaseio.com",
+    "project_id": "cook-the-fridge",
+    "storage_bucket": "cook-the-fridge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425661750859:android:53ee5ca20f212cf8dfb7ce",
+        "android_client_info": {
+          "package_name": "org.pytorch.demo.objectdetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425661750859-n1fe6qs0an0ak2tdf5d7odld70l23jmv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.pytorch.demo.objectdetection",
+            "certificate_hash": "d104c94bdebbbc08842892fb91679da7f0089066"
+          }
+        },
+        {
+          "client_id": "425661750859-hrc4fmrsjj5bf39b5rvbs5utjpbt5ebr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZlPb-abjZ-rBEiOpXHvo1n5BviVo4Vz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425661750859-hrc4fmrsjj5bf39b5rvbs5utjpbt5ebr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

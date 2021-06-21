@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">425661750859-hrc4fmrsjj5bf39b5rvbs5utjpbt5ebr.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://cook-the-fridge-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">425661750859</string>
+    <string name="google_api_key" translatable="false">AIzaSyDZlPb-abjZ-rBEiOpXHvo1n5BviVo4Vz4</string>
+    <string name="google_app_id" translatable="false">1:425661750859:android:53ee5ca20f212cf8dfb7ce</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDZlPb-abjZ-rBEiOpXHvo1n5BviVo4Vz4</string>
+    <string name="google_storage_bucket" translatable="false">cook-the-fridge.appspot.com</string>
+    <string name="project_id" translatable="false">cook-the-fridge</string>
+</resources>
