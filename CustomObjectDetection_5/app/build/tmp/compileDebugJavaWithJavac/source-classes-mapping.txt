@@ -1,0 +1,51 @@
+org/pytorch/demo/objectdetection/SearchActivity.java
+ org.pytorch.demo.objectdetection.SearchActivity
+ org.pytorch.demo.objectdetection.SearchActivity$1
+org/pytorch/demo/objectdetection/CustomAdapter.java
+ org.pytorch.demo.objectdetection.CustomAdapter
+ org.pytorch.demo.objectdetection.CustomAdapter$CustomViewHolder
+ org.pytorch.demo.objectdetection.CustomAdapter$CustomViewHolder$1
+org/pytorch/demo/objectdetection/BaseModuleActivity.java
+ org.pytorch.demo.objectdetection.BaseModuleActivity
+org/pytorch/demo/objectdetection/ObjectDetectionActivity.java
+ org.pytorch.demo.objectdetection.ObjectDetectionActivity
+ org.pytorch.demo.objectdetection.ObjectDetectionActivity$AnalysisResult
+org/pytorch/demo/objectdetection/SubActivity2.java
+ org.pytorch.demo.objectdetection.SubActivity2
+org/pytorch/demo/objectdetection/PrePostProcessor.java
+ org.pytorch.demo.objectdetection.PrePostProcessor
+ org.pytorch.demo.objectdetection.PrePostProcessor$1
+ org.pytorch.demo.objectdetection.Result
+org/pytorch/demo/objectdetection/BuildConfig.java
+ org.pytorch.demo.objectdetection.BuildConfig
+org/pytorch/demo/objectdetection/MainActivity.java
+ org.pytorch.demo.objectdetection.MainActivity
+ org.pytorch.demo.objectdetection.MainActivity$1
+ org.pytorch.demo.objectdetection.MainActivity$10
+ org.pytorch.demo.objectdetection.MainActivity$11
+ org.pytorch.demo.objectdetection.MainActivity$12
+ org.pytorch.demo.objectdetection.MainActivity$13
+ org.pytorch.demo.objectdetection.MainActivity$2
+ org.pytorch.demo.objectdetection.MainActivity$3
+ org.pytorch.demo.objectdetection.MainActivity$4
+ org.pytorch.demo.objectdetection.MainActivity$5
+ org.pytorch.demo.objectdetection.MainActivity$6
+ org.pytorch.demo.objectdetection.MainActivity$7
+ org.pytorch.demo.objectdetection.MainActivity$8
+ org.pytorch.demo.objectdetection.MainActivity$9
+ org.pytorch.demo.objectdetection.MainActivity$9$1
+org/pytorch/demo/objectdetection/WebActivity.java
+ org.pytorch.demo.objectdetection.WebActivity
+ org.pytorch.demo.objectdetection.WebActivity$1
+ org.pytorch.demo.objectdetection.WebActivity$WebViewClientClass
+org/pytorch/demo/objectdetection/ResultView.java
+ org.pytorch.demo.objectdetection.ResultView
+org/pytorch/demo/objectdetection/AbstractCameraXActivity.java
+ org.pytorch.demo.objectdetection.AbstractCameraXActivity
+org/pytorch/demo/objectdetection/Recipe.java
+ org.pytorch.demo.objectdetection.Recipe
+org/pytorch/demo/objectdetection/SubActivity3.java
+ org.pytorch.demo.objectdetection.SubActivity3
+ org.pytorch.demo.objectdetection.SubActivity3$1
+org/pytorch/demo/objectdetection/SubActivity1.java
+ org.pytorch.demo.objectdetection.SubActivity1
